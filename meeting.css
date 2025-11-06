@@ -51,9 +51,9 @@ body {
 }
 
 .step.active {
-  background: #667eea;
+  background: #1000BE;
   color: white;
-  border-color: #667eea;
+  border-color: #1000BE;
 }
 
 /* Schedule Container */
